@@ -19,6 +19,7 @@ Source:
 The dataset used is the Sample Superstore dataset. It contains sales, profit, and other relevant information from a retail superstore.
 
 Columns:
+
 •	Category: Product category (e.g., Furniture, Office Supplies).
 
 •	Sub-Category: Sub-categories under each category.
@@ -45,28 +46,41 @@ Columns:
 
 ## 🛠️ Steps in Analysis
 1. Data Preprocessing (Python)
+   
 •	Cleaning the dataset (removing duplicates, handling missing values).
+
 •	Analyzing outliers in sales, profit, and discount.
 
 2. Exploratory Data Analysis (EDA) (Python)
+
 •	Profit and Sales Analysis:
   o	Analyzing overall sales and profit by state, region, and category.
+
 •	Discount Impact:
-  o	Understanding the relationship between discounts and profitability.
+   o	Understanding the relationship between discounts and profitability.
+
 •	Category and Sub-Category Analysis:
   o	Identifying profitable and unprofitable product segments.
+
 •	Regional Trends:
   o	Analyzing sales and profit by region.
 
-3. Visualization and Dashboard (Power BI)
+4. Visualization and Dashboard (Power BI)
+
 •	Interactive dashboards to present findings and insights:
+
   o	Total Sales and Profit KPIs.
+  
   o	Sales and Profit by Category/Sub-Category.
+  
   o	Top and Bottom Performing States.
+  
   o	Discount vs. Profit Analysis.
 
-4. Insights and Recommendations
+5. Insights and Recommendations
+
 •	Highlighting weak areas like unprofitable regions, over-discounted products, etc.
+
 •	Suggesting strategies for increasing sales and minimizing losses.
 
 
