@@ -8,7 +8,9 @@ The project uses Power BI for creating a storytelling dashboard and Python for i
 
 ## 🧰 Tools and Technologies
 •	**Power BI:** For creating interactive dashboards and visualizations.
+
 •	**Python:** For data cleaning, exploratory data analysis (EDA), and visualization.
+
 •	**Libraries:** pandas, matplotlib, seaborn, numpy
 
 
@@ -18,12 +20,19 @@ The dataset used is the Sample Superstore dataset. It contains sales, profit, an
 
 Columns:
 •	Category: Product category (e.g., Furniture, Office Supplies).
+
 •	Sub-Category: Sub-categories under each category.
+
 •	Region: The region where sales occurred.
+
 •	State: U.S. states.
+
 •	Sales: Revenue from sales.
+
 •	Profit: Profit earned.
+
 •	Discount: Discount applied to sales.
+
 •	Quantity: Number of units sold.
 
 
